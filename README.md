@@ -13,10 +13,10 @@ You are strongly advised to complete the Git training first before tackling this
 1. work in your branch! not on `master`
 1. modify the [`group_info.md`](/group_info.md) to add your profile section (see template below)
 1. push your changes back to GitHub (don't merge into master locally!)
-1. on GitHub, file a new pull request to propose a merge of your branch into `base: master` and suggest one of your peers as a reviewer so they get notified (see this not 100% applicable but still useful [video tutorial](https://www.youtube.com/watch?v=ZWMN5FxgdWI) 1:24+ if you're stuck)
+1. on GitHub, file a new pull request to propose a merge of your branch into `base: master` and request reviews from three of your peers so they get notified    (see this not 100% applicable but still useful [video tutorial](https://www.youtube.com/watch?v=ZWMN5FxgdWI) 1:24+ if you're stuck)
 1. make sure to resolve merge conflicts if there are any (the GitHub interface for this is quite good so you can do this online, see this also not 100% applicable but still useful [video tutorial](https://www.youtube.com/watch?v=k2NjjQxFEuA) 9:00+ if you're stuck)
-1. **DO NOT** merge your pull request until your reviewer has given you the go ahead (reviewers: make sure to react to pull request notifications, take a look over the proposed merge and leave a quick comment)
-1. once your reviewer has given you the go ahead, complete your merge
+1. **DO NOT** merge your pull request until at least one your reviewers has given you the go ahead (reviewers: make sure to react to [pull request notifications](https://github.com/notifications?query=reason%3Areview-requested), take a look over the proposed merge and leave a quick comment)
+1. once a reviewer has given you the go ahead, complete your merge (you might have to resolve additional merge conflicts if they have arisen from changes to the `master` branch in the meantime)
 1. synchronize back with your desktop and check that the master branch has your updates
 
 Happy branching!
